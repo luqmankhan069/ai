@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Creative Suite",
+  "description": "An all-in-one application featuring a simulated login/signup system, an advanced search engine powered by Google Search grounding, and an AI image editor using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
